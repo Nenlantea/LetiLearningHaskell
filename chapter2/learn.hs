@@ -7,3 +7,5 @@ myResult = x * 5
 y = 10
 
 w = x + y
+
+division x = x + 2 / w
