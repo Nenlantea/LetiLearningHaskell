@@ -8,8 +8,4 @@ y = 10
 
 w = x + y
 
-<<<<<<< HEAD
-division x = x / w
-=======
 division x = x + 2 / w
->>>>>>> first-branch
