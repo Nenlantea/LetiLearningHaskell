@@ -40,3 +40,14 @@ myAbs a = if a > 0
 
 g :: (a, b) -> (c, d) -> ((b, d), (a, c))
 g a b = ((snd a, snd b), (fst a, fst b)) 
+
+-- Correcting syntax
+
+w = (+)
+adding :: [a] -> Int
+adding h = w y 1
+    where y = (length h)
+
+identity i = i
+
+first (a, b) = a
